@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Prince](twitter.com/onemoreprince)
+- 👋 Hi, I’m [Prince](https://twitter.com/onemoreprince)
 - 👀 I’m explore and talk about WordPress, cool tech tool, no code tools, Google Sheet, Automation, Relationship, Psychology, Philosophy.
 - 📫 [Email me](mailto:hello@onemoreprince.com)
 
