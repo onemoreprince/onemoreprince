@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Prince](https://twitter.com/onemoreprince)
-- 👀 I’m explore and talk about WordPress, cool tech tool, no code tools, Google Sheet, Automation, Relationship, Psychology, Philosophy.
+- 👀 I explore and talk about WordPress, ChatGPT, no code tools, Google Sheet, Automation, Relationships, Psychology, Philosophy.
 - 📫 [Email me](mailto:hello@onemoreprince.com)
 
 <!---
